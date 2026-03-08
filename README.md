@@ -31,8 +31,12 @@ The simulation computes key performance indicators:
 - Thermodynamic modelling
 - Combustion modelling (Wiebe function)
 
-## Author
+## Authors
 
 Matías Emanuel Quesada Quezada  
-Aerospace Engineering — Universidad Politécnica de Madrid
+Jorge Martínez  
+Alberto Rojo  
+
+Project developed for the Aerospace Propulsion course  
+at Universidad Politécnica de Madrid.
 [TRABAJO_DE_CICLO_TERMODINÁMICO_25_PA (2)_removed.pdf](https://github.com/user-attachments/files/25826333/TRABAJO_DE_CICLO_TERMODINAMICO_25_PA.2._removed.pdf)
